@@ -37,7 +37,7 @@ The backend extracts structured information from a PDF resume and uses a Groq-ho
 
 ## Live Demo
 
-<p align="center"> <a href="https://hiremeai-psi.vercel.app">Live Demo</a> · <a href="https://hiremeai-api.vercel.app">Backend API</a> </p>
+<p align="center"> <a href="https://hiremeai-psi.vercel.app">Live Demo</a>     ·     <a href="https://hiremeai-api.vercel.app">Backend API</a> </p>
 
 ## Tech Stack
 

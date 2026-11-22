@@ -2,6 +2,12 @@
 
 An interactive AI-powered digital twin that represents a candidate's professional profile, skills, education, and projects. Recruiters can explore the candidate's profile, download their resume, and interact with an AI assistant to get answers to professional questions.
 
+<p align="center">
+  <a href="https://hiremeai-psi.vercel.app">
+    <img src="assets/hiremeai-preview.png" alt="HireMeAI Preview" width="100%">
+  </a>
+</p>
+
 \<p align="center">
 &#x20; \<a href="[https://hiremeai-psi.vercel.app](https://hiremeai-psi.vercel.app)">Live Demo\</a> ·
 &#x20; \<a href="[https://hiremeai-api.vercel.app](https://hiremeai-api.vercel.app)">Backend API\</a>

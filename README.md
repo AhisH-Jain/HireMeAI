@@ -309,6 +309,6 @@ Full-Stack & AI Systems Developer
 
 ---
 
-\<p align="center">
+<p align="center">
 &#x20; Built with Python, React, FastAPI, and LLMs.
-\</p>
+</p>

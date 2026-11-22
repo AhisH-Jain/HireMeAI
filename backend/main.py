@@ -29,13 +29,16 @@ model = "openai/gpt-oss-120b"
 
 app = FastAPI(title="HireMeAI Backend")
 
-# Enable CORS for frontend clients
+# Configure CORS for trusted frontend origins
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_origins=[
+        "https://hiremeai-psi.vercel.app",
+        "http://localhost:5173",
+    ],
+    allow_credentials=False,
+    allow_methods=["GET", "POST"],
+    allow_headers=["Content-Type"],
 )
 
 # Parsing resume function

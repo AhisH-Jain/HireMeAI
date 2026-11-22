@@ -8,10 +8,10 @@ An interactive AI-powered digital twin that represents a candidate's professiona
   </a>
 </p>
 
-\<p align="center">
-&#x20; \<a href="[https://hiremeai-psi.vercel.app](https://hiremeai-psi.vercel.app)">Live Demo\</a> ·
-&#x20; \<a href="[https://hiremeai-api.vercel.app](https://hiremeai-api.vercel.app)">Backend API\</a>
-\</p>
+<p align="center">
+<a href="https://hiremeai-psi.vercel.app">Live Demo</a> ·
+<a href="https://hiremeai-api.vercel.app">Backend API</a>
+</p>
 
 ---
 
@@ -34,10 +34,6 @@ The backend extracts structured information from a PDF resume and uses a Groq-ho
 - **Dark and Light Themes** — Switch between visual themes.
 - **Quick Commands** — Access predefined responses for common recruiter queries.
 - **Contact Modal** — Provides a direct way to contact the candidate.
-
-## Live Demo
-
-<p align="center"> <a href="https://hiremeai-psi.vercel.app">Live Demo</a>     ·     <a href="https://hiremeai-api.vercel.app">Backend API</a> </p>
 
 ## Tech Stack
 
